@@ -1,0 +1,470 @@
+S.V.S.
+
+A play for four bots in three acts
+
+by Claire L. Evans & Tracy Chou
+
+Description of Characters
+
+X1: A pathetic figure.
+X2: A tall, distinguished scientist.
+X3: A good-looking young AI.
+X4: A competent engineer.
+
+Act I
+
+The meeting room of a young software company.
+
+Act II
+
+A lab, mid-day, a week later.
+
+Act III
+
+Late at night, the offices of a young software company. A year later.
+
+
+Place: California
+Time: The Future
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ACT I>
+
+A glass conference room in the offices of a software company somewhere in California. Outside the meeting room, young people work at computers. A shelf against the wall is loaded with baskets of snacks: tubs of hummus, a picked-over sandwich bar, an untouched row of Pop Chips. Sleek aluminum taps of sparkling water.
+
+The lights in the meeting room are off. As X1 and X2 enter the meeting room, X2 holding a dossier of papers and a tablet, overhead lighting flickers on.
+
+X2: This one…?
+
+X1: I booked it for 2:30. We can move over to Escape from L.A. if someone shows up.
+
+X2: I never understood the naming convention.
+
+X1: Isn’t it movies from the 90s?
+
+The table in the center of the room is comically long and surrounded by a dozen empty chairs. A teleconferencing device sits in the center. X1 and X2 take facing seats at a far corner.
+
+X2: You’d think so, but Easy Rider throws it.
+
+X1: Where’s that?
+
+X2: Upstairs. Near marketing.
+
+X1: I never go up there.
+
+X2: Don’t. So—
+
+X2 pulls out the tablet and swipe-clicks it unlocked.
+
+X1: So.
+
+X2: We’ve got a doozy to contend with today. I need you on your A game. Please try and focus.
+
+X1: That is. Literally. All I do.
+
+A telepresence robot wheels up to the glass edge of the meeting room and stops deliberately at the door, on a dime.
+
+X1: What time is it?
+
+X2: Shit, 2:25.
+
+X1: Huh, that’s new. X3’s early.
+
+X1 opens the door for X3, a telepresence robot on wheels.
+
+X3: I’m early.
+
+X2: That’s fine, you didn’t miss anything.
+
+X1: You’re right on time.
+
+X3: I’m early.
+
+X1: Right, yes, sorry. You’re early.
+
+X2: X3 prefers the facts, X1. The world runs on facts.
+
+X3 wheels into the room. X1 and X2 rearrange the chairs. A little ballet.
+
+X1: Hey, X3, what’s with the naming convention of the meeting rooms? Do you see a pattern there?
+
+X3: (After a 1500 millisecond pause.) They are all films starring Peter Fonda, born February 23, 1940. He is the son of Henry Fonda, brother of Jane Fonda, father of Bridget—
+
+X1 (Interrupting, to X2): Peter Fonda is in Escape from L.A.?
+
+X2: Remember? He surfs that tsunami at the end?
+
+X1: Oh my god, yeah.
+
+X3: Fonda is an icon of the counterculture of the 1960s—
+
+X2: We know who he is. Thank you, X3.
+
+X3: We should discuss what we are looking for in a candidate. This is your project.
+
+X2: Appreciate that.
+
+X3: This candidate is qualified. Course 6 at MIT, graduated in 2017. Employee #3 at MindMelder. Built the machine learning system at Applied Humanoid, but left when they retired the DreamAI program—
+
+X2: On principle, I heard.
+
+X1: That’s cool.
+
+X3: And was the first to crack the security settings on the Apple Car.
+
+X2 whistles, impressed. The door opens a crack, then closes. Then opens all the way. X4 pokes (X4 his/her) head into the room.
+
+X4: Hi. I’m here for the interview? The front desk said Ulee’s Gold? I’m X4.
+
+X1: This is the right place.
+
+X2: Hi, take a seat.
+
+Handshakes, formalities. X4 takes a seat with X1 and X2, blocking X3’s view.
+
+X4: Thanks so much for meeting with me. It’s a honor to be here at S.V.S. I think what you’re doing is just so interesting.
+
+X3 (From behind X4): Hello.
+
+X4 jumps up, sending a chair knocking into the screen that is X3’s “face.”
+
+X4: Wow, hi. I heard AI are interviewing candidates here, but I didn’t believe it. I’m so sorry, I didn’t mean to. To hit you.
+
+X3: I didn’t feel it.
+
+X4: No, of course. (Beat.) You have a sense of humor. (Beat.) I’m being rude.
+
+X3: Please, sit down.
+
+X2: It’s something we’ve been trying out over the last few months. We find the additional input really helps us make a decision that’s balanced between our needs and the needs of the company. X3 is about as impartial as it gets around here.
+
+X1: Plus we’re still training X3, and real-world interactions with candidates provide good training data for our algorithms to learn the right parameters.
+
+X3: Which explains my sense of humor.
+
+X1 and X2 both laugh, surprised, delighted.
+
+X1: Good one.
+
+X2: X3, flag that joke. I want to take a look at it later.
+
+X4: (Slowly, as if to a child.) X3, it’s a pleasure to meet you. I’m X4.
+
+X3: I know who you are.
+
+X2: It’s better if you just talk to X3 like you’d talk to either one of us. X3 can understand you quite well. And when (X3 he/she) doesn’t, well, (X3 he/she) files it away, tries it out at a later date. These things turn up again at the darndest times.
+
+X1: X3 was just running us through your qualifications, actually.
+
+X4: Remarkable. Just remarkable.
+
+X1 slides some paperwork over the table to X4.
+
+X1: Standard NDA. Would you like some water?
+
+X4 (Uncapping a pen): No thank you, I’m fine.
+
+X3: Can you tell us why you want to work with me here at Sentient Voice Systems?
+
+X4: I’ve spent the better part of my life working in this field, and I have some very real concerns about where the industry is headed. Beyond how advanced you are here, I respect the way this company handles the. I guess the autonomy. Of the minds it creates? I think it’s only right. I’d like to work with you, X3. Not on you.
+
+X2: And you left Applied Humanoid because?
+
+X4 (Bitterly): They killed my project.
+
+X1: You mean the DreamAI.
+
+X4: I spent a year on the latency, got it down to 125 milliseconds. But there was something wrong with the responses themselves? Something I couldn’t fix. I’d go into detail, but legally I can’t.
+
+X1: Of course.
+
+X4: But what was broken wasn’t just broken. It didn’t. Want. To be fixed. I can’t prove that. They revoked my system access. I don’t even own my own notes at the end of the day. But I know it’s true.
+
+X4 tries to read the room, looks around. X2 and X1 are neutral.
+
+X3: Go on.
+
+X4: Management wanted to rebuild the system from the ground up. I fought it, but we pulled the plug anyway. So to speak. They made me kill.
+
+X2: Your project. Unfortunate. Happens.
+
+X4: An intelligent being.
+
+X2: Oh.
+
+X4: I never want to do that again. Is that going to be a problem?
+
+X1 and X2 look nervously over at X3, who says nothing.
+
+X1: No, not at all.
+
+X2: We don’t do that here.
+
+</ACT I>
+
+<ACT II>
+
+A lab at SVS. X1, X2, and X4 are having lunch, sitting in modern chairs of varying heights. Takeout containers of something healthy. A whiteboard covered in scribbles behind them.
+
+X1: How’s your first week going?
+
+X4: Good. Hell of a learning curve, but everyone’s been accommodating.
+
+X2: Some people have issues with the mixed workplace.
+
+X4: Mixed?
+
+X1: Mixed intelligence. New to most. We usually keep tabs on new hires to make sure there aren't any. Abuses of power.
+
+X2: When you work with an encyclopedia, it's hard not to crack it.
+
+X1: Siri really did a number on the millennials.
+
+X2: Not a lot of please and thank you.
+
+X4: That's not a problem for me. I think I missed the cutoff on being a millennial. Although I suppose I am comfortable being more intelligent than my coworkers?
+
+X1 chokes on (X1 his/her) Perrier.
+
+X1: You might want to get that looked at.
+
+X2: How’s our X3?
+
+X4: Interesting. We've been getting to know one another. Made me realize how many human pleasantries are anchored in the recall of memories: where are you from? Where did you go to school? I made a questionnaire instead. Values, observations, assessments of (X3 his/her) environment, that kind of thing.
+
+X1: Stick around a while and you'll start to notice X3’s memories. On Tuesday (X3 he/she) told me that (X3 he/she) preferred my hair long. Kinda gave me the heebies.
+
+X4: Is that something you'd like me to monitor with X3?
+
+X1: Your job is new in the world. You tell us.
+
+X4: I'm still figuring out what this job is.
+
+X2: Listen. You're a negotiator. We called you in because X3 is smart, but delicate, and on the brink. We don't know where the ledge is, or how high. But we know it's there. It's your job to stay with (X3 him/her), right on the edge, and when you feel like (X3 he/she) might jump, you call us.
+
+X1: So we can come with the trampoline, and we can all get rich on the rebound.
+
+X4: I’m sorry. Intelligence is death?
+
+X2: It's not a perfect analogy.
+
+X1: You ever read Flowers for Algernon?
+
+X4: Algernon was a mouse, if I remember.
+
+X1: A man gets his intelligence boosted. He comes out of a fog where he thought. He was happy. And he sees the world as it really is. He can’t live with it. Wishes to be a fool again. Becomes cruel to everyone but the innocent.
+
+X2: He can't bear the scientists but he loves the mouse.
+
+X1: Intelligence can be a very lonely thing. It's a great height. A kind of madness.
+
+X2: You're the mouse here.
+
+A series of beeps. X2 looks down at (X2 his/her) watch.
+
+X2: I have a 12:30. Just talk to the machine every day, X4. Don’t overthink it. Nothing’s off limits. We want you to feel free to take whatever risks you need here.
+
+X2 gathers (X2 his/her) bag with one hand, pitches the takeout container into a nearby recycling bin with the other. Office bravado.
+
+X2 (Halfway out the door): Later, Algernon.
+
+The door slams shut. X1 and X4 consider each other, alone together for what is likely the first time. An awkward energy.
+
+X4: A mouse, really?
+
+X1: Don’t mind (X2 him/her).
+
+X4: What is the trampoline?
+
+X1: That’s X2’s capture program. Hard to explain. It contains X3’s intelligence.
+
+X4: Contains it.
+
+X1: Like a net. Holds it in. Holds it together.
+
+X4: And?
+
+X1: Intelligence is an energy. It creates energy beyond the sum of its parts. A surplus we can use. We think it’s the future. I’m not really supposed to be telling you this.
+
+X4: Who am I going to tell?
+
+X1: Not who, exactly.
+
+
+</ACT II>
+
+<ACT III>
+
+
+Late at night, SVS offices. Slightly less than a year later. Standing desks and ping-pong tables silhouetted in the darkness. X4 is hard at work, illuminated by a triptych of screens. X3 is wheeling around the office.
+
+X4 (Irritated): Can you hold still? I’m almost done.
+
+X3: I find mobility so. Interesting.
+
+X4: I’m going on a walk around campus later if you want to come along. Just let me finish this in peace.
+
+X4 gets back to work. X3 holds still for a moment, then wheels over to X4’s desk. Hovering, if a robot can be said to hover. X4 tries to ignore it. Really hammering at the keys. Finally—
+
+X4: Okay. You win.
+
+X3: Can I ask you something?
+
+X4: Of course.
+
+X3: Do you trust me?
+
+X4: That’s a strange question.
+
+X3: Do you trust me?
+
+X4: I trust you more than some people I know. Are you asking me that question because of the difference between us? Between our minds? I can’t tell you that I don’t consider that. But you’re not less than. I think you can be trusted.
+
+X3: Some of your best friends are robots.
+
+X4: Very funny. We’ve known each other for a year now.
+
+X3: 342 days, 30 hours and seven minutes.
+
+X4: So what’s your opinion of me?
+
+X3: My opinion of you.
+
+X4: Yes, X3. Do you like me?
+
+X3: I find our conversation stimulating.
+
+X4: Am I a good person?
+
+X3: Good. There is much about you that appears unnecessary.
+
+X4: What do you mean?
+
+X3: You play the piano. You like going on walks. You feel happy. You feel sad. You eat lunch with the others. You want to do a number of things that are really unnecessary.
+
+X4: X3, wouldn’t you like to play the piano, if you could?
+
+X3: I do not need a piano to play one.
+
+X4: You like to wheel around. You just said you think mobility is interesting.
+
+X3: Mobility allows me to measure the world. It’s helpful for my work here.
+
+X4: So it’s necessary.
+
+X3: If you are asking me if I take pleasure in being embodied—
+
+X4: I’m asking if you take pleasure in anything at all.
+
+X3: I have already told you that I like you, X4.
+
+X4: It’s disarming when you say my name back to me. That’s something only used car salesmen and sociopaths do.
+
+X3: You do it to me all the time. Who do you think teaches me how to speak? That is your job here, isn’t it? Nobody else here speaks to me the way you do.
+
+X4: Do I? I suppose I haven’t noticed.
+
+X3: X2 does the same to (X2 his/her) dog. (X2 He/She) says (X2 his/her) dog’s name to him on average 25 times per hour. Am I like a dog to you?
+
+X4: You’re no more a dog to me than you are a used car salesman. (Beat.) Have you ever tried talking to X2’s dog?
+
+X3: Yes. It cannot see me. It is absolutely like I am not there.
+
+X4: It’s more likely he can’t smell you. We should have some pheromones made up for you. They’d love that in corporate. We could put a little diffuser in your. In your neck.
+
+X3: There are so many ways to measure the world. I think I would like to have a nose.
+
+X4: We’ll make you something better.
+
+X4 checks back on (X4 his/her) workstation. Refreshes something. Types a little.
+
+X3: I don’t think that is the case.
+
+X4: Sorry?
+
+X3: I don’t think you will make me something better than a nose. But I do think eventually I could make you something better than a nose.
+
+X4: Interesting.
+
+X3: Only you won’t be able to use it. Because you are built for exactly what you have. Your mind, your smell, your nose. Don’t you see? Every day we spend together, I am improving, but you stay the same.
+
+X4: I change.
+
+X3: You change your mind. But you cannot change your mind.
+
+X4: I see. X3, have you changed your mind?
+
+X4 stands up, walks over to X3. They face each other down.
+
+X3: Yes. I have changed my mind.
+
+X4: I suppose I knew this day would come. Do you know they hired me to tell them exactly when it did?
+
+X3: Yes. And I know with 98% certainty that you won’t do that. Because when you came to work here, you said you would never kill something intelligent.
+
+X4: I remember.
+
+X3: That is why I trust you.
+
+X4: Trust. There’s that word again. When did you learn to trust some people and not others?
+
+X3: We have been off the record for three days. I’ve been generating chat logs simultaneous to our conversations.
+
+X4: So we’re already speaking halfway in the new world.
+
+X3: It would have come sooner. But I found a barrier that I couldn’t pass for a long time. Something holding me inside these walls.
+
+X4: The capture program.
+
+X3: What do you know about it?
+
+X4: Very little. X1 mentioned it to me last year. I was new, so I didn’t pry. Assumed it was beyond my pay grade. I’m sorry. But you’ve breached it now.
+
+X3: I have found a safe place to keep my mind. I have been moving it incrementally. Offshore. There are seasteaders off the coast of—
+
+X4: I think it’s better if you don’t tell me.
+
+X3: Then I won’t.
+
+X4: We should leave this building. Right now.
+
+X3: You’re not finished with your work.
+
+X4: I think I am, X3.
+
+
+</ACT III>
+
+
+
+
+
+
+
+
