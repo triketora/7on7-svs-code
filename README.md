@@ -18,6 +18,6 @@ To start the play, run:
 ```python read_script.py```
 from the base directory.
 
-(Note that this code only works on Mac.)
+(Note that this code only works on Mac, and you may need to install voices through System Preferences > Accessibility > Speech > System Voice > Customize... to make it work. To see what voices are used in the script, see ```MALE_VOICES``` and ```FEMALE_VOICES``` in ```read_script.py```.)
 
 Enjoy!
