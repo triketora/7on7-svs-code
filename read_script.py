@@ -8,9 +8,7 @@ import re
 import subprocess
 import sys
 
-# Only uncomment if you have the pyfiglet dependency installed. It's fun for big
-# ASCII printing but not necessary, so commenting out by default.
-# from pyfiglet import figlet_format
+from pyfiglet import figlet_format
 
 
 MALE_VOICES = [
@@ -284,10 +282,7 @@ def read_script(filename, characters, start, end):
                 # Either the beginning or end of an act, so clear the screen.
                 clear_screen()
 
-                # Switch the commenting of the two following lines if you have
-                # pyfiglet installed and want big ASCII lettering for the
-                # beginning and end of each act.
-                # print_line_in_color(figlet_format(line, font="starwars"), Colors.YELLOW)
+                print_line_in_color(figlet_format(line, font="starwars"), Colors.YELLOW)
                 print_line_in_color(line, Colors.YELLOW, bold=True)
 
                 # Press [Enter] to continue.
