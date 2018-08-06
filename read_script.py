@@ -18,8 +18,8 @@ MALE_VOICES = [
     "Daniel",
     "Fred",
     "Junior",
-    # "Lee",  
-    # "Oliver",  
+    # "Lee",
+    # "Oliver",
     "Ralph"
 ]
 
@@ -27,7 +27,7 @@ MALE_VOICES = [
 FEMALE_VOICES = [
     "Agnes",
     "Fiona",
-    # "Karen",  
+    # "Karen",
     "Kathy",
     "Princess",
     "Tessa",
@@ -38,7 +38,7 @@ FEMALE_VOICES = [
 
 def mic_check():
     for voice in MALE_VOICES + FEMALE_VOICES:
-        print "Next up: {voice}".format(voice=voice)
+        print("Next up: {voice}".format(voice=voice))
 
         say_cmd = "say -v {voice} {dialog}".format(voice=voice, dialog="Test test 1 2 3")
         subprocess.call(say_cmd.split())
@@ -254,9 +254,9 @@ def remove_parentheticals(dialog):
 def print_line_in_color(line, color, bold=False, remove_trailing_newline=False):
     bold_formatting = Formatting.BOLD if bold else ""
     if remove_trailing_newline:
-        print "%s%s%s%s" % (bold_formatting, color, line, Formatting.END),
+        print("%s%s%s%s" % (bold_formatting, color, line, Formatting.END),)
     else:
-        print "%s%s%s%s" % (bold_formatting, color, line, Formatting.END)
+        print("%s%s%s%s" % (bold_formatting, color, line, Formatting.END))
 
 
 def clear_screen():
@@ -291,7 +291,7 @@ def read_script(filename, characters, start, end):
                 print_line_in_color(line, Colors.YELLOW, bold=True)
 
                 # Press [Enter] to continue.
-                raw_input()
+                input()
                 clear_screen()
                 continue
 
@@ -303,11 +303,11 @@ def read_script(filename, characters, start, end):
             line = replace_placeholder_names(line, characters)
 
             if not line:
-                print
+                print()
             elif line and not dialog:
                 # Stage direction. Press [Enter] to continue.
                 print_line_in_color(line, Colors.YELLOW, bold=True, remove_trailing_newline=True)
-                raw_input()
+                input()
             else:
                 # Dialog!
                 character = characters.get(placeholder)
@@ -344,7 +344,7 @@ def main(genders=None, start=None, end=None):
         print_line_in_color("  {placeholder} in the voice of {name} ({gender})".format(
             placeholder=placeholder, name=character.name, gender=gender_for_print),
             Colors.YELLOW)
-    raw_input()
+    input()
 
     if not start:
         start = Acts.I
