@@ -62,11 +62,11 @@ The lights in the meeting room are off. As X1 and X2 enter the meeting room, X2 
 
 X2: This one…?
 
-X1: I booked it for 2:30. We can move over to Escape from L.A. if someone shows up.
+X1: I booked it for two thirty. We can move over to Escape from L.A. if someone shows up.
 
 X2: I never understood the naming convention.
 
-X1: Isn’t it movies from the 90s?
+X1: Isn’t it movies from the nineties?
 
 The table in the center of the room is comically long and surrounded by a dozen empty chairs. A teleconferencing device sits in the center. X1 and X2 take facing seats at a far corner.
 
@@ -92,7 +92,7 @@ A telepresence robot wheels up to the glass edge of the meeting room and stops d
 
 X1: What time is it?
 
-X2: Shit, 2:25.
+X2: Shit, two twenty-five.
 
 X1: Huh, that’s new. X3’s early.
 
@@ -114,7 +114,7 @@ X3 wheels into the room. X1 and X2 rearrange the chairs. A little ballet.
 
 X1: Hey, X3, what’s with the naming convention of the meeting rooms? Do you see a pattern there?
 
-X3: (After a 1500 millisecond pause.) They are all films starring Peter Fonda, born February 23, 1940. He is the son of Henry Fonda, brother of Jane Fonda, father of Bridget—
+X3: (After a 1500 millisecond pause.) They are all films starring Peter Fonda, born February twenty-third, nineteen forty. He is the son of Henry Fonda, brother of Jane Fonda, father of Bridget—
 
 X1 (Interrupting, to X2): Peter Fonda is in Escape from L.A.?
 
@@ -130,7 +130,7 @@ X3: We should discuss what we are looking for in a candidate. This is your proje
 
 X2: Appreciate that.
 
-X3: This candidate is qualified. Course 6 at MIT, graduated in 2017. Employee #3 at MindMelder. Built the machine learning system at Applied Humanoid, but left when they retired the DreamAI program—
+X3: This candidate is qualified. Course six at MIT, graduated in twenty seventeen. Employee number three at MindMelder. Built the machine learning system at Applied Humanoid, but left when they retired the DreamAI program—
 
 X2: On principle, I heard.
 
@@ -200,7 +200,7 @@ X4 (Bitterly): They killed my project.
 
 X1: You mean the DreamAI.
 
-X4: I spent a year on the latency, got it down to 125 milliseconds. But there was something wrong with the responses themselves? Something I couldn’t fix. I’d go into detail, but legally I can’t.
+X4: I spent a year on the latency, got it down to one hundred twenty-five milliseconds. But there was something wrong with the responses themselves? Something I couldn’t fix. I’d go into detail, but legally I can’t.
 
 X1: Of course.
 
@@ -288,7 +288,7 @@ X2: You're the mouse here.
 
 A series of beeps. X2 looks down at (X2 his/her) watch.
 
-X2: I have a 12:30. Just talk to the machine every day, X4. Don’t overthink it. Nothing’s off limits. We want you to feel free to take whatever risks you need here.
+X2: I have a twelve thirty. Just talk to the machine every day, X4. Don’t overthink it. Nothing’s off limits. We want you to feel free to take whatever risks you need here.
 
 X2 gathers (X2 his/her) bag with one hand, pitches the takeout container into a nearby recycling bin with the other. Office bravado.
 
@@ -350,7 +350,7 @@ X3: Some of your best friends are robots.
 
 X4: Very funny. We’ve known each other for a year now.
 
-X3: 342 days, 30 hours and seven minutes.
+X3: Three hundred forty-two days, thirty hours and seven minutes.
 
 X4: So what’s your opinion of me?
 
@@ -390,7 +390,7 @@ X3: You do it to me all the time. Who do you think teaches me how to speak? That
 
 X4: Do I? I suppose I haven’t noticed.
 
-X3: X2 does the same to (X2 his/her) dog. (X2 He/She) says (X2 his/her) dog’s name to him on average 25 times per hour. Am I like a dog to you?
+X3: X2 does the same to (X2 his/her) dog. (X2 He/She) says (X2 his/her) dog’s name to him on average twenty-five times per hour. Am I like a dog to you?
 
 X4: You’re no more a dog to me than you are a used car salesman. (Beat.) Have you ever tried talking to X2’s dog?
 
@@ -426,7 +426,7 @@ X3: Yes. I have changed my mind.
 
 X4: I suppose I knew this day would come. Do you know they hired me to tell them exactly when it did?
 
-X3: Yes. And I know with 98% certainty that you won’t do that. Because when you came to work here, you said you would never kill something intelligent.
+X3: Yes. And I know with ninety-eight percent certainty that you won’t do that. Because when you came to work here, you said you would never kill something intelligent.
 
 X4: I remember.
 
@@ -460,11 +460,3 @@ X4: I think I am, X3.
 
 
 </ACT III>
-
-
-
-
-
-
-
-
