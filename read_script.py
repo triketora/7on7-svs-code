@@ -3,10 +3,10 @@ Copyright 2016, Tracy Chou and Claire Evans.
 """
 
 import argparse
+import os
 import random
 import re
 import subprocess
-import sys
 
 from pyfiglet import figlet_format
 
@@ -258,7 +258,7 @@ def print_line_in_color(line, color, bold=False, remove_trailing_newline=False):
 
 
 def clear_screen():
-    sys.stderr.write("\x1b[2J\x1b[H")
+    os.system("cls||clear")
 
 
 def read_script(filename, characters, start, end):
