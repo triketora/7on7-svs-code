@@ -16,8 +16,8 @@ MALE_VOICES = [
     "Daniel",
     "Fred",
     "Junior",
-    # "Lee",
-    # "Oliver",
+    "Lee",
+    "Oliver",
     "Ralph"
 ]
 
@@ -25,7 +25,7 @@ MALE_VOICES = [
 FEMALE_VOICES = [
     "Agnes",
     "Fiona",
-    # "Karen",
+    "Karen",
     "Kathy",
     "Princess",
     "Tessa",
