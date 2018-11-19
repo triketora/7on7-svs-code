@@ -27,8 +27,10 @@ FEMALE_VOICES = [
     "Fiona",
     "Karen",
     "Kathy",
+    # "Mei-Jia",
     "Princess",
     "Tessa",
+    # "Ting-Ting",
     "Vicki",
     "Victoria"
 ]
